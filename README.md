@@ -50,7 +50,7 @@ This project demonstrates core OOP concepts including Encapsulation, Inheritance
 ---
 - Group Project of OOP (2nd semester)
 - Members Muhammad Abeer(25bscs109)
-- Members Eman Tufail (25bscs154)
+- Members Ahmed Haneen (25bscs154)
 
 
 ## Table of Contents
@@ -567,7 +567,7 @@ The project demonstrates a scalable approach to system design using Java. By sep
 ### University OOP Assignment
 
 - Muhammad Abeer (25BSCS109)
-- Eman Tufail (25BSCS154)
+- Ahmed Haneed   (25BSCS154)
 
 
 ## Project Information
