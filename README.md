@@ -567,7 +567,7 @@ The project demonstrates a scalable approach to system design using Java. By sep
 ### University OOP Assignment
 
 - Muhammad Abeer (25BSCS109)
-- Ahmed Haneed   (25BSCS154)
+- Ahmed Haneen   (25BSCS154)
 
 
 ## Project Information
